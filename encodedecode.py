@@ -12,7 +12,6 @@
 """
 
 import base64
-from . import ultroid_cmd
 from . import oreo_cmd
 
 
