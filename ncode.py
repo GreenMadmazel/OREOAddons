@@ -11,7 +11,7 @@
 import pygments
 from pygments.formatters import ImageFormatter
 from pygments.lexers import Python3Lexer
-from . import ultroid_cmd, check_filename, oreo_cmd
+from . import oreo_cmd, check_filename
 
 
 @oreo_cmd(pattern="ncode$")
